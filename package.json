@@ -1,0 +1,24 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kindDemon/node-express-course.git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kindDemon/node-express-course.git/issues"
+  },
+  "homepage": "https://github.com/kindDemon/node-express-course.git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
